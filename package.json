@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^5.0.0"  // Replace with the latest version if needed
+    "@whiskeysockets/baileys": "^5.0.0"
   },
   "author": "",
   "license": "ISC"
